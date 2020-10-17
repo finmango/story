@@ -1,0 +1,30 @@
+<amp-story-page id="{{id}}">
+    <amp-story-grid-layer template="fill">
+        <script data-render>
+            if ('{{media}}'.endsWith('mp4') || '{{media}}'.endsWith('webm')) {
+                document.write(`
+                    <amp-video
+                        loop
+                        autoplay
+                        width="720"
+                        height="1280"
+                        class="tinted"
+                        src="{{media}}"
+                        poster="{{poster}}"
+                        layout="responsive"></amp-video>`)
+            } else {
+                document.write(`
+                    <amp-img
+                        class="tinted cover"
+                        width="720"
+                        height="1280"
+                        src="{{media}}"
+                        layout="responsive"></amp-img>`)
+            }
+        </script>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical">
+        <h1>{{title}}</h1>
+        <p>{{text}}</p>
+    </amp-story-grid-layer>
+</amp-story-page>

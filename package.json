@@ -1,0 +1,59 @@
+{
+  "displayName": "FinMango Lessons",
+  "description": "Lessons for financial literacy",
+  "vars": {
+    "analytics": "UA-103644138-1",
+    "email": "contact@finmango.org",
+    "theme": {
+      "primary": "#FF8700",
+      "accent": "#DD4444",
+      "background": "#000000",
+      "text-on-background": "#FCFCFC"
+    }
+  },
+  "scripts": {
+    "gulp": "gulp",
+    "build": "gulp build",
+    "clean": "gulp clean",
+    "rebuild": "gulp clean ; gulp build:prod",
+    "deploy": "gulp deploy",
+    "start": "http-server public -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/finmango/amp-story.git"
+  },
+  "author": "omtinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/finmango/amp-story/issues"
+  },
+  "homepage": "https://gitlab.com",
+  "devDependencies": {
+    "bluebird": "^3.5.5",
+    "del": "^5.0.0",
+    "firebase-tools": "^7.2.4",
+    "gulp": "^4.0.2",
+    "gulp-amphtml-validator": "^1.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlhint": "^2.2.1",
+    "gulp-imagemin": "^6.1.0",
+    "gulp-jimp": "^1.2.9",
+    "gulp-jshint": "^2.1.0",
+    "gulp-mancha": "^0.2.1",
+    "gulp-minify-inline": "^1.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-typescript": "^5.0.1",
+    "gulp-uglify": "^3.0.2",
+    "http-server": "^0.11.1",
+    "merge2": "^1.2.4",
+    "minimist": "^1.2.0",
+    "muicss": "^0.9.43",
+    "typescript": "^3.5.3"
+  }
+}

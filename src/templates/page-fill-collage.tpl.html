@@ -1,0 +1,25 @@
+<amp-story-page id="{{id}}">
+    <amp-story-grid-layer template="vertical" class="noedge">
+        <div class="wrapper">
+            <script data-render>
+                '{{media}}'.split(',').forEach((item, idx) => {
+                    document.write(`
+                        <amp-img
+                            class="tinted cover"
+                            src="${item}"
+                            width=720
+                            height=1280
+                            layout="responsive"
+                            animate-in="fade-in"
+                            animate-in-delay="${.2 * (1 + idx)}s"></amp-img>`)
+                })
+            </script>
+        </div>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" class="center-text">
+        <p class="banner" animate-in="whoosh-in-right">{{title}}</p>
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="vertical" class="bottom">
+        <p>{{text}}</p>
+    </amp-story-grid-layer>
+</amp-story-page>

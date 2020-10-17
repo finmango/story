@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html amp>
+
+    <!-- HTML page head -->
+    <script src="templates/head.tpl.html" data-include></script>
+
+    <!-- AMP Story dependency -->
+    <script
+        async
+        custom-element="amp-story"
+        src="https://cdn.ampproject.org/v0/amp-story-1.0.js"></script>
+
+    <body>
+
+        <!-- Main section -->
+        <amp-story
+            standalone
+            title="{{name}}"
+            publisher="FinMango"
+            publisher-logo-src="/static/logo.png"
+            poster-portrait-src="/static/transparent.png">
+
+            <!-- Analytics must be loaded inside of the story -->
+            <script src="templates/analytics.tpl.html" data-include></script>
+
+            <!-- Render all of the story pages here -->
+            <script data-render>
+
+                const lesson = JSON.parse(fs.readFileSync('lesson.json', 'utf-8'));
+
+                document.write(
+                    `<script
+                        src=templates/page-cover.tpl.html
+                        data-vars='${encodeHtmlAttrib(JSON.stringify(lesson))}'
+                        data-include><\/script>`);
+
+                const pages = lesson.chapters
+                for (const page of pages) {
+                    document.write(
+                        `<script
+                            src="templates/${page.template}.tpl.html"
+                            data-vars='${encodeHtmlAttrib(JSON.stringify(page))}'
+                            data-include><\/script>`);
+                }
+
+            </script>
+
+            <!-- Book-end is shown to users at the end of the story -->
+            <script src="templates/bookend.tpl.html" data-include></script>
+        </amp-story>
+
+    </body>
+</html>

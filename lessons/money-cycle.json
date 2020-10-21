@@ -8,7 +8,7 @@
     "chapters": [
         {
             "id": "make",
-            "title": "1. Make it",
+            "title": "1.Make it",
             "text": "We can't enter the money cycle without having any money! It is crucial to earn money so we can then do something with it. However, earning money is not the final goal, we must also think about what to do with the money we earned.",
             "media": "static/page1.jpg",
             "template": "page-fill-vertical"

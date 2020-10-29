@@ -1,0 +1,45 @@
+{
+    "id": "debt-to-equity",
+    "title": "Debt to Equity Ratio",
+    "url": "https://finlit.finmango.org/debt_to_equity_ratio",
+    "text": "In this lesson, we will cover the importance of the Debt to Equity Ratio ",
+    "media": "static/cover.mp4",
+    "poster": "static/cover.jpg",
+    "chapters": [
+        {
+            "id": "de_ratio_def",
+            "title": "Definition (D/E ratio formula)",
+            "text": "Debt to Equity is a financial ratio reflecting the relative contribution of creditors and shareholders to finance assets or employ capital in a company.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "de_ratio_formula",
+            "title": "Formula",
+            "text": "The formula to find the ratio is Total liabilities/ Shareholders’ equity. It is found in the balance sheet of a company. ",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "de_ratio_common",
+            "title": "Common D/E Ratio ",
+            "text": "Common debt-to-equity ratios from companies range from 0.0 to 3.0. Creditors often tolerate high debt-to-equity ratios in low financial risk industries. However, creditors demand lower debt-to-equity ratios in high financial risk industries.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "de_ratio_measure",
+            "title": "What does the ratio measure?",
+            "text": "It is a measure of a company's financial leverage and its ability to repay its obligations.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "de_ratio_importance",
+            "title": "Why is the ratio important to a company?",
+            "text": "The ratio helps a company comprehend whether its capital structure is inclined towards debt or equity financing. ",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        }
+    ]
+}

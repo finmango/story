@@ -1,6 +1,6 @@
 {
     "id": "supply-chain",
-    "title": "supply-chain",
+    "title": "Supply Chains",
     "url": "https://finlit.finmango.org/supply-chain",
     "text": "In this lesson, we will learn about the economic concept of supply chains",
     "media": "static/cover.mp4",
@@ -23,7 +23,7 @@
         {
             "id": "supply-chain-example",
             "title": "Supply Chain Example",
-            "text": "",
+            "text": ".",
             "media": "static/supplychain.jpg",
             "template": "page-fill-vertical"
         },

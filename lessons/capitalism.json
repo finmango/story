@@ -1,0 +1,45 @@
+{
+    "id": "capitalism",
+    "title": "Capitalism",
+    "url": "https://finlit.finmango.org/capitalism",
+    "text": "In this lesson, we will learn about the macro-economic concept of capitalism.",
+    "media": "static/cover.mp4",
+    "poster": "static/cover.jpg",
+    "chapters": [
+        {
+            "id": "intro_cap",
+            "title": "What is Capitalism",
+            "text": "Capitalism is an economic structure where means of production are privately owned for profit rather than the state. Private ownership of commodities hence provides greater economic freedom without government intervention.",
+            "media": "static/page1.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "competition",
+            "title": "elements",
+            "text": "Free competition and competitive pricing is encouraged as supply and demand determines production resulting in a market economy instead of command economy.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "laissez-faire",
+            "title": "laissez-faire",
+            "text": "Laissez-faire capitalism allows people to be unrestrained as it functions without any checks or controls. Individuals decide where to invest, what to produce and at which prices",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "factors",
+            "title": "Elements of Capitalist Economies",
+            "text": "Elements of a capitalist economic system include economic freedom, consumer sovereignty, profit motive, and flexible labour markets.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "examples",
+            "title": "Examples of Capitalistic Economies",
+            "text": "Few examples of capitalist economies include Singapore, the US and the UK.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        }
+    ]
+}

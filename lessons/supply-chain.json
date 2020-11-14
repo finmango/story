@@ -1,0 +1,45 @@
+{
+    "id": "supply-chain",
+    "title": "supply-chain",
+    "url": "https://finlit.finmango.org/supply-chain",
+    "text": "In this lesson, we will learn about the economic concept of supply chains",
+    "media": "static/cover.mp4",
+    "poster": "static/cover.jpg",
+    "chapters": [
+        {
+            "id": "intro-supply-chain",
+            "title": "What are Supply Chains",
+            "text": "Supply Chain Management is the management of systems or processes that create goods and/or provide services.",
+            "media": "static/page1.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "supply-chain-entities",
+            "title": "Communism Entities",
+            "text": "Entities part of the supply chain are producers, vendors, warehouses, transportation companies, distribution centers, and retailers. Functions in a supply chain vary from product development, marketing, operations, distribution, finance, and customer service.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "supply-chain-example",
+            "title": "Supply Chain Example",
+            "text": "",
+            "media": "static/supplychain.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "supply-chain-benefits",
+            "title": "Benefits of Supply Chain",
+            "text": "Benefits of Supply Chain Management include maximizing customer value, lowering costing while boosting profitability, achieving a sustainable competitive advantage, and ensuring the production cycle is faster.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "supply-chain-linkage",
+            "title": "Supply Chain Organization",
+            "text": "The organizational supply chain is linked together through physical flows (transformation, movement and storage of goods & services) and information flows (the day-to-day flow of goods and materials up and down along supply chain partners).",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        }
+    ]
+}

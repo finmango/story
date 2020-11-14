@@ -1,0 +1,38 @@
+{
+    "id": "socialism",
+    "title": "Socialism",
+    "url": "https://finlit.finmango.org/socialism",
+    "text": "In this lesson, we will learn about the macro-economic concept of socialism",
+    "media": "static/cover.mp4",
+    "poster": "static/cover.jpg",
+    "chapters": [
+        {
+            "id": "intro-socialism",
+            "title": "What is Socialism",
+            "text": "Socialism is an economic theory advocating the means of production, distribution, and exchange being owned and regulated by the community as a whole.",
+            "media": "static/page1.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "socialism-concern",
+            "title": "Socialism Concern",
+            "text": "The primary concern of socialist thinkers are exploitation of wage earners by the capitalist class, alienation of the workforce, and inefficiency. Socialism hence supports equal resource and wealth distribution and restricts competitive buying and selling",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "means-of-production",
+            "title": "Means of Production",
+            "text": "Government or worker cooperatives control all major means of production. Under this ideology production’s main purpose is use rather than profit. The use of resources and redistribution of taxes wealth is therefore decided by the state.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "socialism-examples",
+            "title": "Examples of Socialist Societies",
+            "text": "Examples of socialism in today’s times include Cuba, Venezuela, and China. Examples of socialism in historic times include Germany and Soviet Union.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        }
+    ]
+}

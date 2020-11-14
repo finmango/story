@@ -1,0 +1,45 @@
+{
+    "id": "Communism",
+    "title": "communism",
+    "url": "https://finlit.finmango.org/communism",
+    "text": "In this lesson, we will learn about the macro-economic concept of communism",
+    "media": "static/cover.mp4",
+    "poster": "static/cover.jpg",
+    "chapters": [
+        {
+            "id": "intro-communism",
+            "title": "What is Communism",
+            "text": "Communism is an economic system advocating a classless system in which goods are owned communally and private property does not exist.",
+            "media": "static/page1.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "communism-elements",
+            "title": "Communism Elements",
+            "text": "Communism divides society into two classes: the proletariat (the working class), who make up the majority of the population within society who must work to survive while the bourgeoisie (the capitalist class), a small minority who derives profit from employing the working class through private ownership of the means of production",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "communism-production",
+            "title": "Communism Production",
+            "text": "Production of necessary goods and services are shared and an individual’s contribution is based on their abilities and what they receive based solely on their needs.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "communism-origins",
+            "title": "Origins of Communism",
+            "text": "Karl Marx and Friedrich Engels penned “The Communist Manifesto” in 1848.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "communism-examples",
+            "title": "Communism Examples",
+            "text": "Soviet Union which collapsed in 1991 and China that has amended its economic system with some elements of capitalism were notable examples of communism.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        }
+    ]
+}

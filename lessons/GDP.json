@@ -1,0 +1,45 @@
+{
+    "id": "gdp",
+    "title": "GDP",
+    "url": "https://finlit.finmango.org/gdp",
+    "text": "In this lesson, we will learn about the economic concept of GDP",
+    "media": "static/cover.mp4",
+    "poster": "static/cover.jpg",
+    "chapters": [
+        {
+            "id": "gdp-definition",
+            "title": "GDP Definition",
+            "text": "Gross Domestic Product (GDP) represents the size of a nation’s economy, which measures the value of the output of all goods and services produced within the country within a year. ",
+            "media": "static/page1.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "gdp-measurement",
+            "title": "Measurement",
+            "text": "GDP can be measured either by the sum of what is purchased in the economy using the expenditures approach or by income earned on what is produced using the income approach.",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "gdp-count",
+            "title": "GDP Count",
+            "text": "To avoid double counting—adding the value of output to the GDP more than once—GDP counts only final output of goods and services, not the production of intermediate goods or the value of labor in the chain of production.",
+            "media": "background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "gdp-formula",
+            "title": "GDP formula",
+            "text": "Based on the four components of demand discussed earlier – consumption, C, investment, I, government, G, and trade balance, T (X-M) – GDP can be measured as follows: GDP=C + I + G + (X - M)",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "gdp-example",
+            "title": "GDP Example",
+            "text": "Example: Country ABC has exports of $35 million, government purchases of $900 million, business investment is $50 million, imports are $65 million, and consumption spending is $1,000 million. What is the dollar value of GDP? GDP = C + I + G + (X - M) GDP = $1,000 million + $50 million + $900 million + ($35 million -  $65 million) = $1,920 million",
+            "media": "static/background.jpg",
+            "template": "page-fill-vertical"
+        }
+    ]
+}

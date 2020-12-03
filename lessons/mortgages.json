@@ -1,0 +1,31 @@
+{
+    "id": "mortgages",
+    "title": "Mortgages",
+    "url": "https://finlit.finmango.org/mortgages",
+    "text": "In this lesson, we will learn about the Mortgages",
+    "media": "static/cover.mp4",
+    "poster": "static/cover.jpg",
+    "chapters": [
+        {
+            "id": "intro",
+            "title": "Introduction to Mortgages",
+            "text": "A mortgage is a type of loan typically used to purchase a home, in which the borrower must repay the money being borrowed with interest. The loan must be paid within the agreed amount of set payments, failure to do so gives the lender the right to take your property",
+            "media": "static/page1.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "relevance",
+            "title": "Relevance",
+            "text": "Mortgages are essential for the home buying process for a lot of people, unless buying in cash is an option. Mortgages provide home buyers flexible financing options that work around their income. Also, given that houses are high ticket size asstes (cost larger chunks of money), buyers more often than not require some help financing a home purchase.",
+            "media": "static/page2.jpg",
+            "template": "page-fill-vertical"
+        },
+        {
+            "id": "example",
+            "title": "Example",
+            "text": "When a person is going to buy a $300,000 house, they could choose a flexible payment plan paying only 10% down payment paying the rest of the house in 25 to 30 years at a 5% interest rate. This allows individuals to afford an expensive home with fixed monthly payments.",
+            "media": "static/page3.jpg",
+            "template": "page-fill-vertical"
+        }
+    ]
+}

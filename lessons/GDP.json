@@ -14,6 +14,17 @@
             "template": "page-fill-vertical"
         },
         {
+            "id1": "gdp-definition",
+            "id2": "gdp-yes",
+            "prompt": "What is the correct definition for GDP?",
+            "option1": "GDP Definition",
+            "option2": "option2",
+            "option3": "yes",
+            "option4": "no",
+            "media": "static/background.jpg",
+            "template": "quiz-template"
+        },
+        {
             "id": "gdp-measurement",
             "title": "Measurement",
             "text": "GDP can be measured either by the sum of what is purchased in the economy using the expenditures approach or by income earned on what is produced using the income approach.",

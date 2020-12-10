@@ -1,0 +1,22 @@
+<amp-story-page id="{{id1}}">
+    <amp-story-grid-layer template="fill">
+      <amp-img layout="responsive"
+      src="{{media}}"
+      width="720"
+      height="1280" />
+    </amp-story-grid-layer>
+    <amp-story-grid-layer template="fill"
+      aspect-ratio="8:6">
+      <div animate-in="scale-fade-up">
+        <amp-story-interactive-quiz
+            id2="{{id2}}"
+            endpoint="https://backend.com/v1/interactives"
+            prompt-text= "{{prompt}}"
+            option-1-text="{{option1}}"
+            option-2-text="{{option2}}" option-2-correct option-2-confetti="🎨"
+            option-3-text="{{option3}}"
+            option-4-text="{{option4}}">
+        </amp-story-interactive-quiz>
+      </div>
+    </amp-story-grid-layer>
+  </amp-story-page>

@@ -1,0 +1,38 @@
+{
+	"id": "opportunity-cost",
+	"title": "Opportunity Cost",
+	"url": "https://finlit.finmango.org/opportunity-cost/",
+	"text": "",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "introduction/definition",
+			"title": "Introduction/Definition",
+			"text": "<p>Opportunity cost is defined as the next best alternative that is given up when given a choice/undertaking an activity. In other words, an opportunity cost is the \"potential benefit\" a person could have derived from using their money in a different venture/investment, from the one that they actually pursued.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "relevance",
+			"title": "Relevance",
+			"text": "<p>In economics, it is useful to weigh all outcomes and choose the solution you think is best, and know what you are giving up</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "formula",
+			"title": "Formula",
+			"text": "<p>Return from the most profitable investment (what\u2019s lost) / Return from investment selected (what\u2019s gained)</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example",
+			"title": "Example",
+			"text": "<p>A farmer chooses to plant wheat; the opportunity cost is planting a different crop, or an alternate use of the resources (land and farm equipment). That is, he could have planted a different crop to earn money or leased out his land to earn money. This \"potential benefit\" is his opportunity cost.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		}
+	]
+}

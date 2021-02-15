@@ -1,56 +1,45 @@
 {
-    "id": "gdp",
-    "title": "GDP",
-    "url": "https://finlit.finmango.org/gdp",
-    "text": "In this lesson, we will learn about the economic concept of GDP",
-    "media": "static/cover.mp4",
-    "poster": "static/cover.jpg",
-    "chapters": [
-        {
-            "id": "gdp-definition",
-            "title": "GDP Definition",
-            "text": "Gross Domestic Product (GDP) represents the size of a nation’s economy, which measures the value of the output of all goods and services produced within the country within a year. ",
-            "media": "static/page1.jpg",
-            "template": "page-fill-vertical"
-        },
-        {
-            "id1": "gdp-definition",
-            "id2": "gdp-yes",
-            "prompt": "What is the correct definition for GDP?",
-            "option1": "GDP Definition",
-            "option2": "option2",
-            "option3": "yes",
-            "option4": "no",
-            "media": "static/background.jpg",
-            "template": "quiz-template"
-        },
-        {
-            "id": "gdp-measurement",
-            "title": "Measurement",
-            "text": "GDP can be measured either by the sum of what is purchased in the economy using the expenditures approach or by income earned on what is produced using the income approach.",
-            "media": "static/background.jpg",
-            "template": "page-fill-vertical"
-        },
-        {
-            "id": "gdp-count",
-            "title": "GDP Count",
-            "text": "To avoid double counting—adding the value of output to the GDP more than once—GDP counts only final output of goods and services, not the production of intermediate goods or the value of labor in the chain of production.",
-            "media": "background.jpg",
-            "template": "page-fill-vertical"
-        },
-        {
-            "id": "gdp-formula",
-            "title": "GDP formula",
-            "text": "Based on the four components of demand discussed earlier – consumption, C, investment, I, government, G, and trade balance, T (X-M) – GDP can be measured as follows: GDP=C + I + G + (X - M)",
-            "media": "static/background.jpg",
-            "template": "page-fill-vertical"
-        },
-        {
-            "id": "gdp-example",
-            "title": "GDP Example",
-            "text": "Example: Country ABC has exports of $35 million, government purchases of $900 million, business investment is $50 million, imports are $65 million, and consumption spending is $1,000 million. What is the dollar value of GDP? GDP = C + I + G + (X - M) GDP = $1,000 million + $50 million + $900 million + ($35 million -  $65 million) = $1,920 million",
-            "media": "static/background.jpg",
-            "template": "page-fill-vertical"
-        }
-    ]
+	"id": "gdp",
+	"title": "GDP",
+	"url": "https://finlit.finmango.org/gdp/",
+	"text": "",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "definition",
+			"title": "Definition",
+			"text": "<p>Gross Domestic Product (GDP) represents the size of a nation\u2019s economy, which measures the value of the output of all goods and services produced within the country within a year.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "measurement",
+			"title": "Measurement",
+			"text": "<p>GDP can be measured either by the sum of what is purchased in the economy using the expenditures approach or by income earned on what is produced using the income approach.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "gdp-count",
+			"title": "GDP Count",
+			"text": "<p>To avoid double counting\u2014adding the value of output to the GDP more than once\u2014GDP counts only final output of goods and services, not the production of intermediate goods or the value of labor in the chain of production.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "formula",
+			"title": "Formula",
+			"text": "<p>Based on the four components of demand discussed earlier \u2013 consumption, C, investment, I, government, G, and trade balance, T (X-M) \u2013 GDP can be measured as follows:</p><p>GDP=C + I + G + (X - M)</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example",
+			"title": "Example",
+			"text": "<p>Country ABC has exports of $35 million, government purchases of $900 million, business investment is $50 million, imports are $65 million, and consumption spending is $1,000 million. What is the dollar value of GDP?</p><p>GDP = C + I + G + (X - M)</p><p>GDP = $1,000 million + $50 million + $900 million + ($35 million -  $65 million) = $1,920 million</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		}
+	]
 }

@@ -1,7 +1,10 @@
 # From: https://github.com/github/gitignore/blob/master/Node.gitignore
+.DS_store
+.vscode/
 
 # Build output
-public
+public/
+public.tmp/
 
 # Logs
 logs

@@ -1,0 +1,45 @@
+{
+	"id": "liabilities",
+	"title": "Liabilities",
+	"url": "https://finlit.finmango.org/liabilities/",
+	"text": "",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "definition",
+			"title": "Definition",
+			"text": "<p>A liability is something a person or company owes, usually a sum of money. Liabilities are settled over time through the transfer of economic benefits including money, goods, or services.In general, a liability is an obligation between one party and another not yet completed or paid for.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "types",
+			"title": "Types",
+			"text": "<p>Liabilities are usually considered short term (expected to be concluded in 12 months or less) or long term (12 months or greater). Liabilities are also known as current or non-current depending on the context.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example",
+			"title": "Example",
+			"text": "<p>For example, in most cases, if a wine supplier sells a case of wine to a restaurant, it does not demand payment when it delivers the goods. Rather, it invoices the restaurant for the purchase to streamline the dropoff and make paying easier for the restaurant. The outstanding money that the restaurant owes to its wine supplier is considered a liability.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "noncurrent-liabilities",
+			"title": "Noncurrent Liabilities",
+			"text": "<p>Noncurrent liabilities, also known as long-term liabilities, are obligations listed on the balance sheet not due for more than a year. Various ratios using noncurrent liabilities are used to assess a company\u2019s leverage, such as debt-to-assets and debt-to-capital. Examples of noncurrent liabilities include: 1)Long-Term loans 2)Lease obligations 3) Bonds Payable 4) Deferred Revenue</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "current-liabilties",
+			"title": "Current Liabilties",
+			"text": "<p>Current liabilities are a company's short-term financial obligations that are due within one year or within a normal operating cycle (time it takes a company to purchase inventory and convert it to cash from sales). Examples of current liabilities include: (1) Accounts Payable (2) Short-term Debt (3) Dividends Payable</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		}
+	]
+}

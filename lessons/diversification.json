@@ -1,0 +1,31 @@
+{
+	"id": "diversification",
+	"title": "Diversification",
+	"url": "https://finlit.finmango.org/diversification/",
+	"text": "",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "definition",
+			"title": "Definition",
+			"text": "<p>Diversification is the action of creating a investing portfolio with many different companies rather than just a single type of company that all share the same traits. This is a risk management strategy which means it is safer to have other assets to rely on if the market fluctuates negatively towards a type of market in a period of time</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "relevance",
+			"title": "Relevance",
+			"text": "<p>Diversification is a great way to stay safe with your money when investing. Diversification is completely up to the buyer when it comes to investing in a stock. Creating an account to invest is free and there are many tips within those accounts to get you started on learning what different categories of companies to diversify in.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example",
+			"title": "Example",
+			"text": "<p>Roger decides to invest $800 in stock for the year 2020. He is inclined to invest in apple as they are on a decline at $172.37 per stock during the COVID-19 pandemic. As Roger scans through the market, he finds Tesla is down to $620.23 per stock. Roger decides to invest his money in both and keep the remaining buying power for later. Having a dip in both companies rather than just one, Roger has secured a back up in case one stock underperforms more during the period of time he owns it.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		}
+	]
+}

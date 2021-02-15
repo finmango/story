@@ -1,0 +1,38 @@
+{
+	"id": "profit-margin",
+	"title": "Profit Margin",
+	"url": "https://finlit.finmango.org/profit-margin/",
+	"text": "",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "introduction",
+			"title": "Introduction",
+			"text": "<p>The profit margin ratio compares profit to sales, expressed as a percentage</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "use",
+			"title": "Use",
+			"text": "<p>Companies use the profit margin ratio to express how well they are handling finances, including how much the business is making, general health of the business, and problems associated with the business</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "forumla",
+			"title": "Forumla",
+			"text": "<p>Ratio of a company\u2019s profit (sales - all expenses) / revenue</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example",
+			"title": "Example",
+			"text": "<p>Example: $800,000 revenue</p><p>\t\t($200,000) cost of goods sold</p><p>\t\t$600,000 gross profit</p><p>\t\t($400,000) other expenses</p><p>\t\t$200,000 net income</p><p>Gross margin: $600,000 / $800,000 = 75%</p><p>Net margin: $200,000 / $800,000 = 25%</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		}
+	]
+}

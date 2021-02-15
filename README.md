@@ -8,3 +8,6 @@ Every time the main branch of this repository is updated, a story is generated f
 files in the lessons folder. The stories can be accessed at the following URL:
 `https://finmango.github.io/story/<story-name>/`. For example, the story for the money cycle lesson
 can be found here: https://finmango.github.io/story/money-cycle/.
+
+To generate the lesson.json files in the [lessons folder](./lessons), download a CSV file with the
+content as `content.csv` to the root folder and run `python generate-lessons.py`.

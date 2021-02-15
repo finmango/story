@@ -1,0 +1,38 @@
+{
+	"id": "supply-and-demand",
+	"title": "Supply & Demand",
+	"url": "https://finlit.finmango.org/supply-and-demand/",
+	"text": "",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "relationship",
+			"title": "Relationship",
+			"text": "<p>The relationship between Supply & Demand is ultimately what determines the price of any given good or commodity that you buy.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "definition",
+			"title": "Definition",
+			"text": "<p>Demand is the number of people that are willing to buy a good or a service. Supply is the willingness to produce and sell a certain quantity of the good.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "relevane",
+			"title": "Relevane",
+			"text": "<p>Supply & Demand is the most important model used in Economics. At their core, Supply & Demand graphs convey: 1. How much of a good/service producers are willing to SUPPLY at any given price 2. How much of a good/service consumers DEMAND at any given price</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "examples",
+			"title": "Examples",
+			"text": "<p>Tatiana produces and sells orange juice. If she decides to sell her orange juice at $4, then 1,000 consumers will be willing to buy the juice and she will make a profit of $100. If she raises the price to $5, then only 600 consumers will be willing to buy the juice and she will make a profit of $60. If she lowers the price to $3, then 1,400 consumers will be willing to buy the juice and she will make a profit of $140.</p><p>Tatiana will choose to produce where she makes the most profit. Thus, Tatiana will price her juice at $3 and produce 1,400 cartons of orange juice.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		}
+	]
+}

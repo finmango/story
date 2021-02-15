@@ -1,0 +1,31 @@
+{
+	"id": "investing",
+	"title": "Investing",
+	"url": "https://finlit.finmango.org/investing/",
+	"text": "",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "introduction-to-investing",
+			"title": "Introduction to Investing",
+			"text": "<p>Investing is the act of purchasing an item (asset) with the hope that over time the asset will appreciate value, and then be sold for a profit at a higher price.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "relevance",
+			"title": "Relevance",
+			"text": "<p>Investing is a key aspect of financial literacy. Value of money can depreciate over time even if we don't actually lose money due to inflation. Therefore, consistent, disciplined, investing is a great way to grow one's wealth and tackle inflation.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example",
+			"title": "Example",
+			"text": "<p>Jacob just got to college and wants to start trading stocks. He has $500 right when he opens his first account to start buying and selling stocks. He buys 1 share of Netflix at $200 and 2 shares of Sony at $150 each. Within that first month of trading a share of Netflix went up to $230 and a share of Sony went up to $215. Jacob made $160 in his first month of trading with $500 to start.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		}
+	]
+}

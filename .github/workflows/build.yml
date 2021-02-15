@@ -1,8 +1,13 @@
 name: Deploy to GitHub Pages
 on:
+
+  # Run every time code changes
   push:
     branches:
       - main
+
+  # Allow to run on demand
+  workflow_dispatch: {}
 
 jobs:
   build-and-deploy:

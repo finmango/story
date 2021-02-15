@@ -1,0 +1,38 @@
+{
+	"id": "real-estate",
+	"title": "Real Estate",
+	"url": "https://finlit.finmango.org/real-estate/",
+	"text": "",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "definition",
+			"title": "Definition",
+			"text": "<p>real estate includes the physical surface of the land, what lies above and below it, what is permanently attached to it, plus all the rights of ownership\u2014including the right to possess, sell, lease, and enjoy the land.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "features",
+			"title": "Features",
+			"text": "<p>Real property shouldn't be confused with personal property, which encompasses all property that doesn't fit the definition of real property. The primary characteristic of personal property is that it's movable.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "examples",
+			"title": "Examples",
+			"text": "<p>Examples include vehicles, boats, furniture, clothing, and smartphones. Real estate and other physical assets are considered an asset class that offers protection against inflation.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "real-assets",
+			"title": "Real Assets",
+			"text": "<p>The tangible nature of such assets also leads to them being considered as more of a \u201creal\u201d asset. In that respect, they differ from assets that exist only in the form of financial instruments, such as derivatives.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		}
+	]
+}

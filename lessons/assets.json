@@ -1,0 +1,45 @@
+{
+	"id": "assets",
+	"title": "Assets",
+	"url": "https://finlit.finmango.org/assets/",
+	"text": "",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "definition",
+			"title": "Definition",
+			"text": "<p>An asset is a resource with economic value that an individual, corporation, or country owns or controls with the expectation that it will provide a future benefit. Assets are reported on a company's balance sheet and are bought or created to increase a firm's value or benefit the firm's operations.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "relevance",
+			"title": "Relevance",
+			"text": "<p>An asset can be thought of as something that, in the future, can generate cash flow, reduce expenses, or improve sales, regardless of whether it's manufacturing equipment or a patent.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "current-assets",
+			"title": "Current Assets",
+			"text": "<p>Current assets are assets that are expected to be converted to cash within a year. Current assets are separated from other resources because a company relies on its current assets to fund ongoing operations and pay current expenses.</p><p> Examples of current assets include:</p><p>1)Cash and cash equivalents</p><p>2)Accounts receivable</p><p>3)Prepaid expenses</p><p>4)Inventory</p><p>5)Marketable securities</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "noncurrent-assets",
+			"title": "Noncurrent Assets",
+			"text": "<p>Noncurrent assets are those that are considered long-term, where their full value won't be recognized until at least a year. Since noncurrent assets have a useful life for a very long time, companies spread their costs over several years. This process helps avoid huge losses during the years when capital expansions occur. Examples of non-current assets include: 1)Land</p><p>2)Property, plant, and equipment (PP&E)</p><p>3)Trademarks</p><p>4)Long-term investments</p><p>5)Goodwill</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "difference-between-current-and-noncurrent-assets",
+			"title": "Difference between Current & Noncurrent Assets",
+			"text": "<p>The key difference between current and noncurrent assets and liabilities, which are all listed on the balance sheet, is their timeline for use or payment.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"id": "risk-tolerance",
+	"title": "Risk Tolerance",
+	"url": "https://finlit.finmango.org/risk-tolerance/",
+	"text": "",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "defitinition",
+			"title": "Defitinition",
+			"text": "<p>Risk tolerance is the amount of loss an investor will be prepared to face if they pursue certain investment decisions. This will help how they build their portfolio of investments for the future with low-risk being more conservative investing and high-risk going after potential large losses or big gains.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "relevance",
+			"title": "Relevance",
+			"text": "<p>Risk tolerance is used to determine the loss a person might incur if they went down a certain investment route. Factors that heavily influence these decisions is Time, Goals, and Portfolio size. Time is always competing against you because we can always calculate when a investment might appreciate or drop, but other factors of the market could change that instantaneously. Being time conscious of when to buy and sell also goes into the goals that a investor has. Is this long term or for a quick turnaround?</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "relevance-continued",
+			"title": "Relevance Continued",
+			"text": "<p>Those questions are important for how much money they are seeking out of this investment. Portfolio size creates a cushion for risk tolerance because people can easily determine if they should go into this or if they even need to. Looking at a portfolio can show an investor if they are in desperate need of these funds at all or they can invest in other things that could show quicker success for their portfolio at the time.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example",
+			"title": "Example",
+			"text": "<p>Jonathan has been involved in mutual funds and now wants to branch out in the stock market. He wants to invest money into Tesla and see how much he could turn around in a small amount of time. Looking at the previous data shown by Tesla, they have small spurts of appreciation, but they are more consistent long term. This is difficult for Jonathan\u2019s plan of having quick profit and he decides to invest in multiple other companies for the time being to get his results instead.</p>",
+			"media": "https://i.imgur.com/S3E0ULu.png",
+			"template": "page-fill-vertical"
+		}
+	]
+}

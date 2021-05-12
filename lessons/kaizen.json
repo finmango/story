@@ -1,0 +1,66 @@
+{
+	"id": "kaizen",
+	"title": "Kaizen",
+	"url": "https://finlit.finmango.org/kaizen/",
+	"text": "How it can change your life",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "background",
+			"title": "Background",
+			"text": "<p>Kaizen is a powerful concept for unlocking growth in your career, startup, business, writing, or life. A short thread on what it means and the magic of continous improvement... Kaizen is a Japanese word meaning \"improvement.\"</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "background-continued",
+			"title": "Background continued",
+			"text": "<p>In practice, the term is used to convey continuous improvement. It is a dynamic process - ongoing, incremental, compounding daily improvements. The orgin of the conept of Kaizen is long, winding, and global in nature.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "a-little-history",
+			"title": "A little history",
+			"text": "<p>In the 1930s, Walter Shewhart - a Bell Labs engineer - had developed the Plan-Do-Study-Acty System (PDSA) to assess the effectiveness of organizaitonal changes in driving continued business improvement. Shewhart had mentored W. Edwards Deming, who went to Japan after WWII as part of the post-war recovery.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "history-continued",
+			"title": "History continued",
+			"text": "<p>Deming implemnted and imporved upon his mentor's ideas and helped to drive the remarkable post-war economic growth in Japan. But the concept of Kaizen began to build a mainstream following with the works of Masaaki Imai, a Japanese organizational theorist and consultant.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "history-continued",
+			"title": "History continued",
+			"text": "<p>In 1986, he published a best-seller called \"Kaizen: The Key to Japan's Competitive Success\" and founded The Kaizen Institute. Kaizen prioritizes small, daily improvements (rather than large, step-function leaps).</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "summary",
+			"title": "Summary",
+			"text": "<p>It teaches that progress and growth are the result of daily actions to drive the small improvements. It teaches that progress and growth are achievable for anyone willing to put in the work.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "conclusion",
+			"title": "Conclusion",
+			"text": "<p>\"If you get one percent better each day for one year, you'll end up thirty-seven times better by the time you're done.\" The math doesn't lie. Kaizen - continous improvemnt - is the way. \"The journey of a thousand miles begins with a single step.\" - Lao Tzu</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "conclusion-continued",
+			"title": "Conclusion continued",
+			"text": "<p>\"If you get one percent as you embark on your own thousand-mile journey - whether in your career or life - always remember the incredible power of small, consistent, daily progress. Always remember the power of Kaizen.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		}
+	]
+}

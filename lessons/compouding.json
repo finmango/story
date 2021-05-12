@@ -1,0 +1,59 @@
+{
+	"id": "compouding",
+	"title": "Compouding",
+	"url": "https://finlit.finmango.org/compouding/",
+	"text": "What is the great wonder and how does it work?",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "compound-interest",
+			"title": "Compound Interest",
+			"text": "<p>Albert Einstein famously said, \"\"Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it.\" But what is this great wonder and how does it work? Here's Compounding 101!</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "first,-a-few-definitions",
+			"title": "First, a few definitions",
+			"text": "<p>Simple interest is interest that is paid only on the initial principle balance. Compound interest is interest that is paid on the initial principal balance plus the accumulated interest from prior periods. You earn interest on your interest!</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example",
+			"title": "Example",
+			"text": "<p>Let's use a simple story to illustrate the incredible power of compound interest. Imagine you work for a tech comapny that was just acquired by Google. You cash out your stock options and recieve a windfall of $1 million. Your colleague Katherine is in the same situation.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "so-what-happens-next?",
+			"title": "So what happens next?",
+			"text": "<p>Katherine's 10% simple interest will earn him $100k every year (10% on $1m principal). Your 8% compound interest will earn you $80k the 1st year, $86k the 2nd year (8% on $1.08m), etc. You earn more interest every year. Katherine earns the same amount.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "what-happens-continued",
+			"title": "What happens continued",
+			"text": "<p>After 1 year, Katherine has 1.1 million and you have just $1.08 million. She gloats about her financial prowess. \"Just wait,\" you tell her confidently. By year 7, you have leapfrogged Katherine. By year 20, she has $3 million to you $4.7. By year 30, she has $4 million to your $10 million!</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "what-happens-continued",
+			"title": "What happens continued",
+			"text": "<p>\"You should have listened to my guy Albert,\" you tell Katherine over the phone from the library in your mansion. The key here is that with compound interest, you receive the rate of return on both the principal and the accumulated interest. It creates a snowball effect, of sorts.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "conclusion",
+			"title": "Conclusion",
+			"text": "<p>The same concept applies to stock markets, as the returns of this year compound upon the returns from last year. Historically, putting money in a market index fund and allowing it to compound (reinvesting dividends) was the simplest, best way to build long-term wealth. At FinMango, we're all for keeping things simple, except for when it comes to interest. Trust Einstein. Whether with savings, investments, or knowledge, let it compound!</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		}
+	]
+}

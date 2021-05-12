@@ -1,0 +1,80 @@
+{
+	"id": "10-competitive-advantages",
+	"title": "10 Competitive Advantages",
+	"url": "https://finlit.finmango.org/10-competitive-advantages/",
+	"text": "What are they and how can you develop them?",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "1-intellectual-curiosity",
+			"title": "1. Intellectual curiosity",
+			"text": "<p>Intellectual curisoity is a real world superpower. We all have it, but most will never embrace it. For the curious mind, anything is possible. Fortune favors the curious mind.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "2-comfort-with-discomfort",
+			"title": "2. Comfort with discomfort",
+			"text": "<p>We are conditioned to avoid discomfort, so most of us do. The Problem? Discomfort leads to growth. It is an absolute necessity. It you train yourself to accept and ambrace discomfort, you will always have an edge.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "3-simplify-where-other-complicate",
+			"title": "3. Simplify where other complicate",
+			"text": "<p>\"The definiton of genius is taking the complex and making it simple.\" Complexity and jargon are often used to mask a lack of deep understanding. Learn to convey extremely complex ideas in simple, digestible ways. Find beauty in simplicity.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "4-high-tolerance-for-failure",
+			"title": "4. High tolerance for failure",
+			"text": "<p>We fear failure, so most of us play it safe to avoid it. But our greatest moments of growth often stem directly from our greatest failures. Do not accept failure, but do not fear it either. You will fail. Embrace it. Learn to faiul smart and fast.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "5-low-time-preference",
+			"title": "5. Low time preference",
+			"text": "<p>Life is a long game. Those with low time preference play it more effectively - they happily delay gratification to build real value. In a world of people seeking instant gratification, this is a meaningful edge.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "6-antifragility",
+			"title": "6. Antifragility",
+			"text": "<p>In Greek mythology, the Hydra is a creature that has multiple heads. Every time one head is cut off, two grow back in its place. Life is random and chaotic. Do not be broken by this chaos and disorder; rather, adopt a mentality that you will benefit from it.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "7-presence",
+			"title": "7. Presence",
+			"text": "<p>With the rise of technology - and the instant access to millions of people and things that it has provided - the ability to be truly present has become a rarity. When you are with someone - wheter a new business contact, friend, or partner - be WITH them. Be present.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "8-relentless-consistency",
+			"title": "8. Relentless consistency",
+			"text": "<p>Many people are able to produce bursts of energy. Few people are able to produce consistent, steady flows of energy. The former might be flashy, but the latter is relentless. Take pride in punching the clock - in showing up - day in, day out.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "9-resilience-and-noise-cancelling",
+			"title": "9. Resilience and noise cancelling",
+			"text": "<p>Be resilient - the abiity to absorb, adapt, and transform from challenges and understand that the world is a noisy place. We are constantly hammered by stimuli competing for our attention. The ability to cancel out the noise - to truly focus on the task at hand - is both broadly applicable and extremely powerful.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "10-be-yourself",
+			"title": "10. Be yourself",
+			"text": "<p>The most important competitive advantage. ALWAYS BE YOURSELF. No one can compete with you, at being you.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		}
+	]
+}

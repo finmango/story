@@ -30,7 +30,7 @@ def val_or_default(val: str, default: str = "") -> str:
 
 
 if __name__ == "__main__":
-    df = pd.read_csv("content.csv", skiprows=1)
+    df = pd.read_csv("content.csv")
 
     title_col_idx = list(df.columns).index("Title 1")
     for _, row in df.iterrows():

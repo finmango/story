@@ -1,0 +1,66 @@
+{
+	"id": "cantillon-effect",
+	"title": "Cantillon Effect",
+	"url": "https://finlit.finmango.org/cantillon-effect/",
+	"text": "What is it and how does it work?",
+	"media": "static/cover.jpg",
+	"poster": "static/cover.jpg",
+	"chapters": [
+		{
+			"id": "background",
+			"title": "Background",
+			"text": "<p>With the recent money printing activity and an expanding wealth inequality problem, talk of the \"Cantillon Effect\" has taken center stage. But what is the Cantillon Effect and how does it work?</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "background-continued",
+			"title": "Background continued",
+			"text": "<p>Richard Cantillon was an Irish-French banker, philosopher, and economist born in the 1680s. His \"Essay on the Nature of Commerce in General\" is considered a foundational work in the study of the political economy, though it was not published until 1755, well after his death.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "background-continued",
+			"title": "background continued",
+			"text": "<p>While published 265 years ago, the essay has many insights that remain relevant today. He depicted how the early recipients of new money entering an economy will enjoy a much higher standard of living than those it trickles down to. The \"flow path\" of new money matters!</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example",
+			"title": "Example",
+			"text": "<p>Let's use a simple story to illustrate his point. Imagine you live in a small, simple island society. One morning, you find a package has been delivered to your doorstep from your long lost Uncle FEDerico (who lives in a far away land). The package has $1 million in it.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example-continued",
+			"title": "Example continued",
+			"text": "<p>No one else knows you have received this package. You now secretly have $1 million. So naturally, you start spending it and investing it quickly. Prices are still low, because no one knows these new dollars exist yet! Your standard of living improves rapidly.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example-continued",
+			"title": "Example continued",
+			"text": "<p>You buy yourself the nicest house, the most beautiful clothes, tons of land, and still have some money left over. But now, people are aware that new money is flowing through the system. Prices begin to rise as supply has yet to \"catch up\" to the new demand.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "example-continued",
+			"title": "Example continued",
+			"text": "<p>So while the money allowed you to invest, spend, and dramatically improve your lifestyle, it did not benefit others in the society in the same way. The sellers of the goods, who received your cash, now face rising prices when they want to consume. The flow path mattered!</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		},
+		{
+			"id": "conclusion",
+			"title": "Conclusion",
+			"text": "<p>This is an ultra-simplified example, but gets at the essence of what the Cantillon Effect means. Those receiving the new money first injected in an economy are generally much better off than those receviing it via the trickle down effect. This may lead to inequality. This concept is often discussed when examinning the impact of \"money printing\" of Central Banks globally. With an injection point of the \"new money\" at the top, asset oweners benefit while the working class may experience rising prices for everdya goods.</p>",
+			"media": "https://drive.google.com/file/d/187EWejNAH75f2-cmk5BDQ9Ficpgutzl6/view?usp=sharing",
+			"template": "page-fill-vertical"
+		}
+	]
+}

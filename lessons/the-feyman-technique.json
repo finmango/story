@@ -10,63 +10,63 @@
 			"id": "background",
 			"title": "Background",
 			"text": "<p>Richard Feynman was an American theoretical physicist. He won the Nobel Prize in Physics in 1965 for his groundbreaking work in quantum electrodynamics. Feynman's true genius, however, was in his ability to convey extrmeely complex ideas in simple, digestible ways.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "what-it-is",
 			"title": "What it is",
 			"text": "<p>Richard Feynman observed that complexity and jargon are often used to mask a lack of deep understanding. The Feynman Technique is a learning framework that forces you to strip away needless complexity and develop a deep, elegant understanding of a given topic.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "four-key-steps",
 			"title": "Four Key Steps",
 			"text": "<p>(1) Identify, (2) ELI5 (\"Explain it To Me Like I'm 5\"), (3) Reflect & Study, and (4) Organize, Convey, and Review.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "step-1:-identify",
 			"title": "Step 1: Identify",
 			"text": "<p>What is the topic you want to learn more about? Identify the topic and write down everything you know about it. Read and research the topic and write down all of your new learnings (and the sources of each).</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "step-2:-eli5",
 			"title": "Step 2: ELI5",
 			"text": "<p>Attempt to explain the topic to a child. Once again, write down everything you know about your topic, but this time, pretend you are expalining it to a child. Use simple language and terms. Focus on consiceness.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "step-3:-reflect-and-study",
 			"title": "Step 3: Reflect & Study",
 			"text": "<p>Reflect on your performance in Step 2. How well were you able to explain the topic to a child? Where did you get frustrated? Where did you resort to jargon or get stuck? These are the gaps in your understanding. Read and study to fill them.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "step-4:-organize,-convey-and-review",
 			"title": "Step 4: Organize, Convey & Review",
 			"text": "<p>Organize your elegant, simple language into a compelling story or narrative. Convey it to others. Test-and-learn. Iterate and refine your story or narrative accordingly. Review (and respect) your new, deeper understanding of the topic.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "summary",
 			"title": "Summary",
 			"text": "<p>The Feynman Technique is an incredible framework for unlocking growth. The best entrepreneurs, writers, thinkers, and operators have leveraged this technique (directly or indirectly). They share a commoon genius - the ability to convey complex ideas in simple, digestible ways.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "conclusion",
 			"title": "Conclusion",
 			"text": "<p>It is easy to overcomplicate and intimidate. We all know the people - teachers, peers, bosses - who try to do this. Do not be fooled - complexity and jargon are often used to mask a lack of deep understanding. Remember The Feynman Technique. Find beauty in simplicity.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		}
 	]

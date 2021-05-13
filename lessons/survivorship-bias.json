@@ -10,56 +10,56 @@
 			"id": "first,-a-few-definitions",
 			"title": "First, a few definitions",
 			"text": "<p>Survivorship bias is the logical error of concentrating on survivors (successes) and ignoring casualties (failures). When we do so, we miss the true \"base rates\" of survival (the actual probability of success) and arrive at flawed conclusions.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "background",
 			"title": "Background",
 			"text": "<p>When we completely ignore failures, we lose our ability to correctly idetnify the differences between successes and failures. Put simply, exclusively focusing on successes may actually inhibit our ability to identify (and replicate) the actions that led to such success.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "some-history",
 			"title": "Some history",
 			"text": "<p>Cicero wrote on the topic over 2,000 years ago. An atheist named Diagoras is shown in portraits of people who prayed and were saved from death at sea as proof of God's existence. Diagoras replies, \"I see those who were saved, but where are those painted who were shipwrecked?\"</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "history-continued",
 			"title": "History continued",
 			"text": "<p>Cicero cuts right to the point - we cannot conclude that prayer led to being saved from the sea if we ignore those who prayed and then drowned. Survivorship bias can lead to a deeply-flawed understanding of cause-and-effect relationships. Letr's look at some examples...</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "example",
 			"title": "Example",
 			"text": "<p>One of the most famous examples of survivorship bias comes from World War II. The U.S. wanted to add reinforcement armor to specific areas of its planes. Analysts plotted bullet holes and damage on returning bombers, deciding the tail, body, and wings needed reinforcement.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "example-continued",
 			"title": "Example continued",
 			"text": "<p>The \"seen\" planes had sustained damage that was survivable. The \"unseen\" planes had sustained damage that was not.  Wald concluded that armor should be added to the unharmed regions of the survivors. Where the sirvivors were unhamred is where the planes were most vulnerable.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "example-concluded",
 			"title": "Example concluded",
 			"text": "<p>Based on his observation, the military reinforced the engine and other vulnerable parts, significantly improving the safety of the crews during combat. Wald had identified the survivorship bias and avoided its wrath. Where else do you see surivorship bias arise?</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		},
 		{
 			"id": "conclusion",
 			"title": "Conclusion",
 			"text": "<p>For every person who pursued a moonshot idea and is now worth billions, there may be 10 who did the same and collapsed. As Taleb wrote in his classic, Fooled by Randomness, \"Heroes are heroes because they are heroic in behavior, not because they won or lost.\" So the next time you read a story of the hero who won, be sure to reflect on all of the heroes who lost, whose stories are not told.</p>",
-			"media": "https://imgur.com/gallery/CEwKRiZ",
+			"media": "https://i.imgur.com/EzIAPBe.png",
 			"template": "page-fill-vertical"
 		}
 	]

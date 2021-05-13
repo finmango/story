@@ -3,8 +3,8 @@
 	"title": "First Principles Thinking",
 	"url": "https://finlit.finmango.org/first-principles-thinking/",
 	"text": "What it is, how it works and how you can implment it. Aristotle defined a first principle as, \"the first basis from which a thing is known.\"",
-	"media": "static/cover.jpg",
-	"poster": "static/cover.jpg",
+	"media": "https://i.imgur.com/DUJN1NZ.png",
+	"poster": "https://i.imgur.com/DUJN1NZ.png",
 	"chapters": [
 		{
 			"id": "first,-a-few-definitions",

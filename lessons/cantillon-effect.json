@@ -3,8 +3,8 @@
 	"title": "Cantillon Effect",
 	"url": "https://finlit.finmango.org/cantillon-effect/",
 	"text": "What is it and how does it work?",
-	"media": "static/cover.jpg",
-	"poster": "static/cover.jpg",
+	"media": "https://i.imgur.com/DUJN1NZ.png",
+	"poster": "https://i.imgur.com/DUJN1NZ.png",
 	"chapters": [
 		{
 			"id": "background",

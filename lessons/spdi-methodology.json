@@ -3,8 +3,8 @@
 	"title": "SPDI Methodology",
 	"url": "https://finlit.finmango.org/spdi-methodology/",
 	"text": "What is it and how does it work?",
-	"media": "static/cover.jpg",
-	"poster": "static/cover.jpg",
+	"media": "https://i.imgur.com/DUJN1NZ.png",
+	"poster": "https://i.imgur.com/DUJN1NZ.png",
 	"chapters": [
 		{
 			"id": "background",

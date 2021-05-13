@@ -3,8 +3,8 @@
 	"title": "The Dunning-Kruger Effect",
 	"url": "https://finlit.finmango.org/the-dunning-kruger-effect/",
 	"text": "How it works and how you can avoid it.",
-	"media": "static/cover.jpg",
-	"poster": "static/cover.jpg",
+	"media": "https://i.imgur.com/DUJN1NZ.png",
+	"poster": "https://i.imgur.com/DUJN1NZ.png",
 	"chapters": [
 		{
 			"id": "background",

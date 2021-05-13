@@ -38,9 +38,10 @@ if __name__ == "__main__":
         lesson_id = safe_path_str(lesson_title)
         lesson_url = f"https://finlit.finmango.org/{lesson_id}/"
         lesson = dict(LESSON_BASE, id=lesson_id, title=lesson_title, url=lesson_url, chapters=[])
-        lesson["text"] = val_or_default(
-            row["Topic Blurb"], default=BLURB_DEFAULT.format(title=lesson_title)
-        )
+        fallback_title = BLURB_DEFAULT.format(title=lesson_title)
+        lesson["text"] = val_or_default(row["Topic Blurb"], default=fallback_title)
+        lesson["media"] = val_or_default(row["Topic Image"], default="static/cover.jpg")
+        lesson["poster"] = lesson["media"]
         for idx in range(title_col_idx, len(df.columns), 3):
             if pd.isna(row.iloc[idx]):
                 continue

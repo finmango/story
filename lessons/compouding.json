@@ -3,8 +3,8 @@
 	"title": "Compouding",
 	"url": "https://finlit.finmango.org/compouding/",
 	"text": "What is the great wonder and how does it work?",
-	"media": "static/cover.jpg",
-	"poster": "static/cover.jpg",
+	"media": "https://i.imgur.com/DUJN1NZ.png",
+	"poster": "https://i.imgur.com/DUJN1NZ.png",
 	"chapters": [
 		{
 			"id": "compound-interest",

@@ -18,6 +18,10 @@ jobs:
 
     - name: Build
       run: |
+        # Download the latest lessons from Google Sheets
+        python -m pip install -r requirements.txt
+        python generate-lessons.py
+        # Build the lessons into HTML content
         npm install
         bash build-lesson.sh
 

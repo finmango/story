@@ -85,13 +85,16 @@ gulp.task('build:html', function () {
 
     // Perform rendering
     return gulp.src(['src/manifest.json', 'src/**/*.html', '!src/**/*.tpl.html'])
-        .pipe(mancha(vars, {
-            fs: fs,
-            encodeHtmlAttrib: mancha.encodeHtmlAttrib,
-            console: console,
-            canonical: null
-        }))
-        .pipe(gulp.dest('public'));
+        .pipe(mancha(
+            vars,
+            {
+                fs: fs,
+                encodeHtmlAttrib: mancha.encodeHtmlAttrib,
+                console: console,
+                canonical: null
+            },
+            './src',
+        )).pipe(gulp.dest('public'));
 });
 
 gulp.task('build:logo', function () {

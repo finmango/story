@@ -1,12 +1,7 @@
 <amp-story-page id="{{id}}">
     <amp-story-grid-layer template="vertical">
         <h1>{{title}}</h1>
-        <amp-img
-            class="tinted cover"
-            src="{{media}}"
-            width="720"
-            height="1280"
-            layout="responsive"></amp-img>
+        <script data-include src="media-item.tpl.html" data-vars='{"media": "{{media}}"}'></script>
         <p>{{text}}</p>
     </amp-story-grid-layer>
 </amp-story-page>

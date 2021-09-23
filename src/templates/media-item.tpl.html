@@ -1,0 +1,22 @@
+<script data-render>
+    if ('{{media}}'.endsWith('mp4') || '{{media}}'.endsWith('webm')) {
+        document.write(`
+            <amp-video
+                loop
+                autoplay
+                width="720"
+                height="1280"
+                class="tinted"
+                src="{{media}}"
+                poster="{{poster}}"
+                layout="responsive"></amp-video>`)
+    } else {
+        document.write(`
+            <amp-img
+                class="tinted cover"
+                width="720"
+                height="1280"
+                src="{{media}}"
+                layout="responsive"></amp-img>`)
+    }
+</script>

@@ -61,7 +61,7 @@ if __name__ == "__main__":
                 section_media = val_or_default(row.iloc[idx + 2]) or "static/background.jpg"
                 lesson["chapters"].append(
                     {
-                        "id": safe_path_str(section_title),
+                        "id": "id-" + safe_path_str(section_title),
                         "title": section_title,
                         "text": safe_text_to_html(val_or_default(row.iloc[idx + 1])),
                         "media": section_media,

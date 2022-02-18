@@ -56,7 +56,7 @@ if __name__ == "__main__":
             for idx in range(title_col_idx, len(df.columns), 3):
                 if pd.isna(row.iloc[idx]) or df.columns[idx].startswith("Question"):
                     continue
-                section_title = row.iloc[idx].split("(")[0].strip()
+                section_title = row.iloc[idx].strip()
                 section_id = safe_path_str(section_title)
                 section_media = val_or_default(row.iloc[idx + 2]) or "static/background.jpg"
                 lesson["chapters"].append(

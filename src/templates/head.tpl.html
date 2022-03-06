@@ -4,13 +4,13 @@
     <title>{{name}}</title>
     <meta name="description" content="{{description}}" />
     <link rel="icon" type="image/png" href="static/logo-64.png" />
-    <script data-render>document.write(`<link rel="canonical" href="{{url}}/${__name}" />`);</script>
+    <script data-render>document.write(`<link rel="canonical" href="{{url}}${__name}" />`);</script>
 
     <!-- Schema.org metadata -->
     <script src="schema.org.tpl.html" data-include></script>
 
     <!-- Social media preview images -->
-    <meta property="og:image" content="{{url-web}}/mortgages/static/logo-512.png">
+    <meta property="og:image" content="{{url}}static/logo-512.png">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="512">
     <meta property="og:image:height" content="512">

@@ -9,7 +9,8 @@
       "accent": "#DD4444",
       "background": "#000000",
       "text-on-background": "#FCFCFC"
-    }
+    },
+    "url-web": "https://finlit.finmango.org"
   },
   "scripts": {
     "gulp": "gulp",
